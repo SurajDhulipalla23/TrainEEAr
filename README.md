@@ -15,3 +15,7 @@ Tool Tracking to be used in an Endoscopic Endonasal Approaches Trainer for Neuro
   * Kalman filter to smooth tool tracking ​
     * Recursive estimator, noise filter​
 * Electronics to detect tool contact with expert-selected “no go zones” (ICAs, Optic Nerves, Cavernous sinuses)​
+
+## Short Youtube Demo
+Youtube demo of the Tool Tracking Algorithm (not within the context of the device):
+<https://youtube.com/shorts/aZmWDemw04g?feature=shared>
